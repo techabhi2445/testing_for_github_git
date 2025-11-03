@@ -1,0 +1,1 @@
+console.log("amazon plus member is ready")
